@@ -26,12 +26,5 @@ To view the project:
 - Explore the app design through the interactive prototypes available in Figma.
 - Review the different screens designed for user interaction.
 
-## Projects in DSA
-- **To-Do List**: Created a to-do list application using linked lists in C++.
-- **Quiz Game**: Developed a quiz game using C++ to enhance data structure understanding.
-
 ## Acknowledgments
 Special thanks to my mentor, Ashish Chapagain, for guidance and support throughout the project.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
