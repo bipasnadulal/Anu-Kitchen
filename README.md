@@ -22,6 +22,9 @@ The goal of the Anu Kitchen App is to provide users with an easy-to-navigate pla
 ## Acknowledgments
 Special thanks to my mentor, Ashish Chapagain, for guidance and support throughout the project.
 
+## Figma Design
+You can view the Figma design file here: [View Figma Design](https://www.figma.com/proto/9bu7VWsy8btJlm9m1hXeWQ/AnuKitchenAndServices?node-id=0-1&t=LH2n2CGa5NEzCRVn-1)
+
 
 ![Cover Image](https://i.imgur.com/ZnA1jVY.jpeg)
 
