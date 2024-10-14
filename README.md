@@ -15,12 +15,6 @@ The goal of the Anu Kitchen App is to provide users with an easy-to-navigate pla
 ## Technologies Used
 - **Design Tools**: Figma
   
-## Installation Instructions
-To view the project:
-1. Download the project files.
-2. Open the design files in Figma (if applicable).
-3. (Include any other necessary steps for installation or viewing)
-
 ## Usage
 - Explore the app design through the interactive prototypes available in Figma.
 - Review the different screens designed for user interaction.
