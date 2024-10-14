@@ -24,3 +24,7 @@ Special thanks to my mentor, Ashish Chapagain, for guidance and support througho
 
 
 ![Cover Image](https://i.imgur.com/ZnA1jVY.jpeg)
+
+![Cover Image](https://i.imgur.com/zz0HAWY.jpeg)
+
+
