@@ -21,3 +21,6 @@ The goal of the Anu Kitchen App is to provide users with an easy-to-navigate pla
 
 ## Acknowledgments
 Special thanks to my mentor, Ashish Chapagain, for guidance and support throughout the project.
+
+
+![Cover Image](https://imgur.com/ZnA1jVY)
